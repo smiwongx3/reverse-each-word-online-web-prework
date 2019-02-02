@@ -3,5 +3,3 @@ def reverse_each_word
     puts single_word.reverse 
   end 
 end 
-
-reverse_each_word
